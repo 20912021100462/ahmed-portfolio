@@ -35,7 +35,7 @@ export const portfolioData = {
       description:
         "Developed an end-to-end interactive Power BI dashboard analyzing $2.49B in fitness revenue, tracking 4K+ orders, and optimizing product line performance. Engineered a robust Star Schema data model by cleaning and transforming complex Excel datasets with SQL, ensuring data integrity and efficient querying. Calculated critical KPIs and advanced business metrics using DAX, including dynamic revenue trends and product sub-category performance. Designed an advanced Customer Churn Analysis flow that successfully isolated inactive memberships, identifying a 10.39% attrition rate to support retention strategies.",
       technologies: ["Power BI", "SQL", "DAX", "Excel"],
-      image: "/images/Sales.jpg",
+      image: "/Images/Sales.jpg",
       links: {
         github: "https://github.com/20912021100462/First-Project-Data-Analysis-Sales-",
         linkedin:
@@ -47,7 +47,7 @@ export const portfolioData = {
       description:
         "Built an interactive Power BI dashboard to analyze e-commerce sales performance and customer behavior. Analyzed key KPIs including Revenue, Profit, Quantity Sold, and Customer Activity. Identified top-performing products, categories, and regional sales trends. Implemented interactive filters to explore data by year, region, and segment. Delivered data-driven insights to support business decision-making.",
       technologies: ["Power BI", "SQL", "DAX"],
-      image: "/images/E_Commerce.png",
+      image: "/Images/E_Commerce.png",
       links: {
         github: "https://github.com/20912021100462/ecommerce-sales-analysis-powerbi",
         linkedin:
@@ -59,11 +59,11 @@ export const portfolioData = {
       description:
         "Built an interactive Power BI dashboard to analyze mobile sales performance and customer purchasing behavior. Analyzed key KPIs including Total Revenue, Total Transactions, Quantity Sold, and Number of Customers. Identified top-performing mobile brands and products based on sales and quantity metrics. Analyzed revenue distribution by payment methods and customer segments. Explored regional sales performance using map visualizations to highlight high-performing cities.",
       technologies: ["Power BI", "SQL", "DAX"],
-      image: "/images/Mobile.jpg",
+      image: "/Images/Mobile.jpg",
       links: {
         github: "https://github.com/20912021100462/mobile-sales-analysis-powerbi",
         linkedin:
-          "https://www.linkedin.com/posts/ahmed-samir-4634902a1_powerbi-data-analysis-mobile-sales-activity",
+          "https://www.linkedin.com/posts/ahmed-samir-4634902a1_powerbi-dataanalytics-dataanalysis-activity-7436450069857546240-j0Xy?utm_source=share&utm_medium=member_android&rcm=ACoAAEjdG4sBKonIm5CkBGtJyunloCi7ezAj-HI",
       },
     },
     {
@@ -71,7 +71,7 @@ export const portfolioData = {
       description:
         "Built an interactive, app-like Power BI portal with custom UI design to analyze hospital operations and healthcare quality. Engineered advanced visualizations (e.g., Decomposition Trees) to track revenue, emergency room efficiency, and demographics. Analyzed critical healthcare KPIs including Bed Occupancy Rate and Patient Voice to monitor resource utilization. Delivered actionable insights to optimize hospital capacity and improve the overall patient experience.",
       technologies: ["Power BI", "SQL", "DAX"],
-      image: "/images/Hospital.png",
+      image: "/Images/Hospital.png",
       links: {
         github: "https://github.com/20912021100462/Hospital-Operations-PowerBI-Dashboard",
         linkedin:
